@@ -3,7 +3,7 @@
 ### My name is Vicky
 
 Here you will find various projects and mockups of trying and testing different things on the web.
-- I love building new features and try different things.
+I love building new features and try different things.
 
 ### A bit about me:
 
