@@ -2,6 +2,8 @@
 
 Nice e-meeting you!
 
+:computer: [vasiliki.io](https://vasiliki.io/)
+
 <img width="826" alt="Screenshot 2022-12-07 at 12 47 59" src="https://user-images.githubusercontent.com/59574576/206183309-a24def81-f8bc-4a42-9fe2-4f9bc8531f18.png">
 
 I will keep it sort, I promise..
@@ -27,4 +29,4 @@ I am actually quite curious when new hingies like JS-CSS updates coming out..
 
 ### You can always check my work below and give me a shout
 
-:computer: [vasiliki.io](https://vasiliki.io/)
+
