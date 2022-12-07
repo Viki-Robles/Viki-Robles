@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-![Screenshot 2022-12-05 at 15 56 00](https://user-images.githubusercontent.com/59574576/206182502-68f98cd1-e938-431b-b955-72c530f54977.png)
+<img width="1243" alt="Screenshot 2022-12-07 at 12 45 14" src="https://user-images.githubusercontent.com/59574576/206182753-330baffe-3837-4f44-85e1-0d85c4414d53.png">
 
 Nice e-meeting you!
 I know what you are thinking...But will keep it sort, I promise..
