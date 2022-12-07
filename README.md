@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img width="1243" alt="Screenshot 2022-12-07 at 12 45 14" src="https://user-images.githubusercontent.com/59574576/206182753-330baffe-3837-4f44-85e1-0d85c4414d53.png">
-
 Nice e-meeting you!
+
+<img width="826" alt="Screenshot 2022-12-07 at 12 47 59" src="https://user-images.githubusercontent.com/59574576/206183309-a24def81-f8bc-4a42-9fe2-4f9bc8531f18.png">
 
 I will keep it sort, I promise..
 
