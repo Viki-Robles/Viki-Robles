@@ -3,9 +3,10 @@
 <img width="1243" alt="Screenshot 2022-12-07 at 12 45 14" src="https://user-images.githubusercontent.com/59574576/206182753-330baffe-3837-4f44-85e1-0d85c4414d53.png">
 
 Nice e-meeting you!
-I know what you are thinking...But will keep it sort, I promise..
 
-### What we have:
+I will keep it sort, I promise..
+
+### What you can see:
 
 Various projects and mockups for trying and testing different things on the web. 
 
