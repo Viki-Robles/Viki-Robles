@@ -16,7 +16,7 @@ Nice e-meeting you!
 
 #### - 🔭 I’m currently working at [Dynata](https://www.dynata.com/?utm_source=google&utm_medium=cpc&utm_campaign=dynata_brand&gclid=Cj0KCQjwwY-LBhD6ARIsACvT72MMjnjvhoj_g0WFgpidfCVtHOZZXE4cOFOKVAz_Zc7Ru7qP23RHzccaApjWEALw_wcB) as a Frontend Engineer, before that I was working at [Digital Futures](http://digitalfutures.com/)
 
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning C
 - 🤔 I’m writing technical articles on DEV community to help other engineers: [DEV](https://dev.to/vikirobles)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vicky-vasilopoulou-52230111b/)
 -->
