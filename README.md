@@ -18,7 +18,7 @@ Nice e-meeting you!
 
 - 🌱 I’m currently studying MSc Computer Science at the University of London
 - 🤔 I’m writing technical articles on DEV community to help other engineers: [DEV](https://dev.to/vikirobles)
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vicky-vasilopoulou-52230111b/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vicky-v-52230111b/)
 -->
 
 ### You can always check my work below and give me a shout
