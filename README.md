@@ -14,8 +14,6 @@ Nice e-meeting you!
 
 ### To the juicy stuff now..(I know I am almost there):
 
-#### - 🔭 I’m currently working at [Trainline](https://www.thetrainline.com/) as a Frontend Engineer.
-
 - 🌱 I’m currently studying MSc Computer Science at the University of London
 - 🤔 I’m writing technical articles on DEV community to help other engineers: [DEV](https://dev.to/vikirobles)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vicky-v-52230111b/)
