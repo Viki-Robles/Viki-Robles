@@ -2,6 +2,8 @@
 
 Nice e-meeting you!
 
+<a href="https://app.daily.dev/vickyvasilopoulou"><img src="https://api.daily.dev/devcards/v2/ruf5IIbIhF1q4bGKAcS1C.png?type=default&r=hkt" width="356" alt="Vicky Vasilopoulou's Dev Card"/></a>
+
 :computer: [vasiliki.io](https://vasiliki.io/)
 
 ### What you can see:
